@@ -1,8 +1,19 @@
-# nuxt-content-headless-blog
+# Nuxt Content Headless Blog
 
-> Nuxt Content Example
+> Código del tutorial Cómo crear un blog con Nuxt, Content y Markdown
 
-## Build Setup
+**[Tutorial paso a paso](https://www.danielprimo.io/blog/como-crear-blog-nuxt-content-markdown)**
+
+**[Demo](https://nuxt-content-headless-blog.netlify.app/)**
+
+## Herramientas utilizadas
+
+- NuxtJS
+- VueJS
+- TailwindCSS
+- Markdown
+
+## Instrucciones básicas de puesta en marcha
 
 ```bash
 # install dependencies
@@ -19,4 +30,5 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c80e68b-5afd-4a9a-be80-23d3ffccab92/deploy-status)](https://app.netlify.com/sites/nuxt-content-headless-blog/deploys)

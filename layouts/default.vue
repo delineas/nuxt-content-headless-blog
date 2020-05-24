@@ -9,21 +9,21 @@
       <ul class="text-sm text-gray-700 list-none p-0 flex items-center">
         <li>
           <a
-            href="#"
+            href="https://github.com/delineas/nuxt-content-headless-blog"
             class="inline-block py-2 px-3 text-gray-900 hover:text-gray-700 no-underline"
             >Github</a
           >
         </li>
         <li>
           <a
-            href="#"
+            href="https://www.danielprimo.io/blog/como-crear-blog-nuxt-content-markdown"
             class="inline-block py-2 px-3 text-gray-900 hover:text-gray-700 no-underline"
             >Tutorial</a
           >
         </li>
         <li class="pr-2">
           <a
-            href="#"
+            href="https://www.danielprimo.io"
             class="inline-block py-2 px-3 text-gray-900 hover:text-gray-700 no-underline"
             >Acerca de</a
           >

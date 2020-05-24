@@ -1,5 +1,5 @@
 ---
-title: Tu Quodsi domini et non prementem perituraque
+title: Tí Quodsi domini et non prementem perituraque
 description: "🎢🚧😀"
 published: true
 ---
