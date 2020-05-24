@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-content-headless-blog",
+  "version": "1.0.0",
+  "description": "Nuxt Content Example",
+  "author": "Daniel Primo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.0.2",
+    "nuxt": "^2.12.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
